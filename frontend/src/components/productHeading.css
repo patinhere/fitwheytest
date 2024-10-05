@@ -1,0 +1,8 @@
+.active {
+  border: 1px solid blue;
+  margin-bottom: 5px;
+}
+.inactive {
+  color: none;
+  margin-bottom: 5px;
+}

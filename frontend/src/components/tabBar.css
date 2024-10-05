@@ -1,0 +1,27 @@
+.fill-dot {
+  border: 1px solid #0058ff;
+  height: 18px;
+  width: 18px;
+  background-color: #0058ff;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 0 0 5px;
+}
+
+.empty-dot {
+  border: 1px solid #0058ff;
+  height: 18px;
+  width: 18px;
+  background-color: #fff;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 0 0 5px;
+}
+
+.rate {
+  height: 20px;
+  padding: 0;
+  display: flex;
+  margin: 0 0 6px 0;
+  align-items: center;
+}
